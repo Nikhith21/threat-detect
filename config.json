@@ -1,0 +1,5 @@
+{
+    "brute_force_threshold": 5,
+    "invalid_user_threshold": 3,
+    "top_attackers_limit": 5
+}
